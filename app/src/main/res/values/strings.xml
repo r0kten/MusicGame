@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Song Guessing Game</string>
+    <string name="welcome_text">Welcome to the Song Guessing Game</string>
+    <string name="start_game">Start Game</string>
+    <string name="juice_wrld">Juice WRLD</string>
+    <string name="xxxtentacion">XXXTentacion</string>
+    <string name="kendrick_lamar">Kendrick Lamar</string>
+    <string name="timer_text">Time: %1$d s</string>
+    <string name="score_text">Score: %1$d</string>
+    <string name="song_hint">Guess the artist of this song!</string>
+    <string name="time_up">Time\'s up!</string>
+    <string name="game_over">Game Over! Final Score: %1$d</string>
+</resources>
